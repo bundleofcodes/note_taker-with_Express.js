@@ -24,7 +24,8 @@ The purpose of this project was to create an application that has the ability to
 
 - Application Screenshot:
 
-- ![Application Screenshot](./README%20preview%20Screenshot.png)
+- ![Application Screenshot](./public/assets/note_taker1.jpeg)
+- ![Application Screenshot](./public/assets/note_taker2.jpeg)
 
 - [Repository URL](https://github.com/bundleofcodes/note_taker-with_Express.js)
 
@@ -39,7 +40,7 @@ The purpose of this project was to create an application that has the ability to
 
 ## License:
 
-This project is licensed under MIT License. Click [here](https:)
+This project is licensed under MIT License. Click [here](https://github.com/bundleofcodes/note_taker-with_Express.js/blob/main/LICENSE)
 
 ## Tests:
 
